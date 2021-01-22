@@ -1,0 +1,7 @@
+{
+"prefix": "f!",
+"token": "YOUR-TOKEN",
+"mongodb": "YOUR-MONGODB-URL",
+"dbltoken": "YOUR-DBL-TOKEN",
+"shard": 4
+}
