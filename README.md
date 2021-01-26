@@ -87,7 +87,6 @@ Parece dificil mas você **realmente** quer hospedar a Foxy? você pode usar a i
 ├──token
 ├── MongoDB url
 ├── prefixo
-├── Canary Token
 ├── Número de shards
 ├── Discord Bot List token
 ```
